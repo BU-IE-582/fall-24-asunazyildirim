@@ -3,7 +3,7 @@
 ### Useful Links
 
 Github: [My Repository](https://github.com/BU-IE-582/fall-24-asunazyildirim)
-HW 1: [HW 1](file:///Users/asunazyildirim/Downloads/HW1_AsuNazY%C4%B1ld%C4%B1r%C4%B1m.html)
+HW 1: [HW 1](HW1/HW1_AsuNazYıldırım.html)
 
 
 ### Support or Contact
