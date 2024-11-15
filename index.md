@@ -14,9 +14,13 @@ Github: [My Repository](https://github.com/BU-IE-582/fall-24-asunazyildirim)
 
 [My Report](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/HW1%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.pdf)
 
+The pictures cannot be seen in html and ipynb files. I also uploded them:
+
 [Typical S-Parameter Values](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/s-parameter%20value.png)
 
 [Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/ideal.png)
+
+[Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/MLR%20code.png)
 
 
 
