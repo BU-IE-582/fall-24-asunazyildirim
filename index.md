@@ -10,6 +10,9 @@ Github: [My Repository](https://github.com/BU-IE-582/fall-24-asunazyildirim)
 
 [Matlab Script in Jupyter Notebook](https://github.com/BU-IE-582/fall-24-asunazyildirim/blob/main/HW%201/HW1_AsuNazY%C4%B1ld%C4%B1r%C4%B1m.ipynb)
 
+[My Report1](HW 1/HW1 Asu Naz Yıldırım.pdf)
+
+
 [My Report](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW1/HW1%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.pdf)
 
 [Typical S-Parameter Values](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW1/s-parametervalue.png)
@@ -17,6 +20,7 @@ Github: [My Repository](https://github.com/BU-IE-582/fall-24-asunazyildirim)
 [Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW1/ideal.png)
 
 
+HW 1/HW1 Asu Naz Yıldırım.pdf
 
 
 
