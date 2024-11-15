@@ -20,7 +20,7 @@ The pictures cannot be seen in html and ipynb files. I also uploded them:
 
 [Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/ideal.png)
 
-[Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/MLR%20code.png)
+[MLR](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/MLR%20code.png)
 
 
 
