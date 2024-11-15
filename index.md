@@ -14,13 +14,7 @@ Github: [My Repository](https://github.com/BU-IE-582/fall-24-asunazyildirim)
 
 [Typical S-Parameter Values](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/s-parameter%20value.png)
 
-
-
-[Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW1/ideal.png)
-
-
-HW 1/HW1 Asu Naz Yıldırım.pdf
-
+[Standars S11 limits](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/ideal.png)
 
 
 
