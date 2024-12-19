@@ -23,6 +23,13 @@ The pictures cannot be seen in html and ipynb files. I also uploded them:
 [MLR](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%201/MLR%20code.png)
 
 
+### Links of HW 2
+
+[Jupyter Notebook HTML](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.html)
+
+[Python Script in Jupyter Notebook](https://github.com/BU-IE-582/fall-24-asunazyildirim/blob/main/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.ipynb)
+
+[My Report](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.pdf)
 
 
 ### Support or Contact
