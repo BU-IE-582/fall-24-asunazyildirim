@@ -31,6 +31,13 @@ The pictures cannot be seen in html and ipynb files. I also uploded them:
 
 [My Report](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.pdf)
 
+### Links of Project
+
+[Jupyter Notebook HTML](https://bu-ie-582.github.io/fall-24-asunazyildirim/Project%202024/Project.html)
+
+[R Script in Jupyter Notebook](https://github.com/BU-IE-582/fall-24-asunazyildirim/blob/main/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.ipynb)
+
+[Report](https://bu-ie-582.github.io/fall-24-asunazyildirim/HW%202/Homework%202%20-%20Asu%20Naz%20Y%C4%B1ld%C4%B1r%C4%B1m.pdf)
 
 ### Support or Contact
 
